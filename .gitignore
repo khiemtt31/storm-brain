@@ -1,0 +1,42 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+a.out
+
+# Build directories
+build/
+bin/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Compiled binaries from codeforces problems
+codeforces/**/*.out
+codeforces/**/a.out
+codeforces/**/solution
+codeforces/**/test
+
+# CodeQL
+_codeql_detected_source_root
