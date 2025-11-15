@@ -37,3 +37,6 @@ codeforces/**/*.out
 codeforces/**/a.out
 codeforces/**/solution
 codeforces/**/test
+
+# CodeQL
+_codeql_detected_source_root
