@@ -4,6 +4,7 @@
         "algorithm": "cpp",
         "xiosbase": "cpp",
         "xtree": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "iostream": "cpp"
     }
 }
